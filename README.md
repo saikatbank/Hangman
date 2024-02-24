@@ -17,7 +17,7 @@ This is a simple implementation of the classic Hangman game in Python. It's a co
 - Provides feedback on the current state of the word.
 ## Deployment
 
-To deploy this project run
+To Play this game clone the repo
 
 ```bash
   git clone https://github.com/saikatbank/Hangman.git
